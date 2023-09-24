@@ -1,0 +1,18 @@
+h1 {
+    color: brown;
+
+}
+
+#purple{
+    color: purple;
+}
+
+.sidebar-nav {
+    margin-top: 20px;
+    padding: 0;
+    list-style: none;
+}
+
+body{
+    background-color: navajowhite;
+}
